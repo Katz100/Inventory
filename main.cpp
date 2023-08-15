@@ -470,7 +470,7 @@ char alphaMenu() {
 
 void ProgramGreeting() {
   cout << "\nThis program creates a list of inventory items for which the user "
-          "can edit, add, or delete items\nCody Hopkins\n10-16-2022\n";
+          "can edit, add, or delete items\nCody\n10-16-2022\n";
 }
 
 
